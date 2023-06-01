@@ -1,2 +1,4 @@
 rootProject.name = 'gradle-sample'
+include 'haha'
+include 'hehe'
 
